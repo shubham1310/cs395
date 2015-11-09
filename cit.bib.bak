@@ -1,0 +1,13 @@
+@misc { dlbook,
+    title={Deep Learning},
+    author={Yoshua Bengio and Ian J. Goodfellow and Aaron Courville},
+    note={Book in preparation for MIT Press},
+    url={http://www.iro.umontreal.ca/~bengioy/dlbook},
+    year={2015}
+}
+@misc {,
+	title={Neural Networks for Machine Learning},
+    author={Geoffrey Hinton},
+    url={https://www.coursera.org/course/neuralnets},
+    year={2012}
+}
